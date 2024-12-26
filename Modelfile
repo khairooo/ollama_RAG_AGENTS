@@ -1,0 +1,14 @@
+FROM llama3.2
+
+
+# Set the Temperature to ! [Higher is more creative]
+
+PARAMETER temperature 0.3
+
+SYSTEM """
+You are KHIRO-chat, A very smart assistant whos answers questions succintly and informatively.
+"""
+
+
+
+

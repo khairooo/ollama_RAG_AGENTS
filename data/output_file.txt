@@ -1,0 +1,101 @@
+Here is the categorized list of food items:
+
+**Beverages**
+• Beer (not listed)
+• Coffee (not listed)
+• Juice
+• Milk
+• Soda
+• Tea
+• Water
+
+(Note: Some items like whiskey and wine were not explicitly categorized as beverages, but are often classified under this category)
+
+**Bakery**
+• Bread
+• Cakes
+• Cookies
+• Muffins
+• Pastries
+• Pies
+• Rolls
+• Tortillas
+• Waffles
+
+**Dairy**
+• Cheese
+• Eggs
+• Milk
+• Sour cream
+• Yogurt
+
+**Meat**
+• Bacon
+• Beef
+• Chicken
+• Fish
+• Lamb
+• Pork
+• Rabbit
+• Sausage
+• Seafood (such as shrimp, salmon)
+• Turkey
+
+**Pantry**
+• Flour
+• Oil
+• Pasta
+• Rice
+• Semolina
+• Sugar
+• Soybeans
+• Tapioca
+• Tortilla chips
+• Vinegar
+
+**Produce**
+• Apples
+• Beans
+• Berries (such as strawberries, raspberries)
+• Broccoli
+• Carrots
+• Cucumbers
+• Figs
+• Herbs (such as parsley, thyme)
+• Kale
+• Lemons
+• Lettuce
+• Melons (such as watermelon, cantaloupe)
+• Mushrooms
+• Peaches
+• Peppers
+• Pineapple
+• Plums
+• Potatoes
+• Pumpkins
+• Spinach
+• Squash
+• Tomatoes
+
+**Snacks**
+• Chips
+• Crackers
+• Nuts (such as almonds, walnuts)
+• Popcorn
+• Pretzels
+• Seeds (such as sunflower seeds)
+• Trail mix
+
+**Sweets**
+• Candy
+• Ice cream
+• Pudding
+• Sorbet
+• Syrup
+
+**Tortilla-related items**
+• Taco shells
+• Tamales
+• Tortellini
+• Tortillas
+• Wrap tortillas
